@@ -8,4 +8,4 @@ Problem statement Description:Request for a voice bot that understands user requ
 Example of user request : Book Appointment with Dr Joshi at 5pm. The voice bot can provide responses.
 
 Approach :
- we have developed an android app which supports 20+ marathi voice commands.This application is produced 
+ we have developed an android app which supports 20+ marathi voice commands.This application can performs all the activities present in NCORDS  [eHealthSystem APP](https://play.google.com/store/apps/details?id=com.solutionnersoftware.ehealthcard.activity&hl=en) 
